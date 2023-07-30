@@ -6,8 +6,7 @@ const data=[
     title: 'Data Analytis InternShip in IBM',
     deuration: '7 Weeks',
     details:
-    " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam perferendis nemo sint beatae qui fugit tempore a cupiditate obcaecati laboriosam asperiores, eveniet repellat dolorum unde officia velit deserunt vel aliquid."
-  },
+    " During my internship at IBM as a Data Analyst, I had the incredible opportunity to work in a cutting-edge environment, surrounded by industry-leading professionals. Throughout the internship, I actively engaged in real-world data projects, where I leveraged my analytical skills to derive meaningful insights from diverse datasets. Working with Python, SQL, and various data visualization tools, I successfully tackled complex data challenges, applying statistical techniques and machine learning algorithms to extract valuable patterns and trends."},
   
 ]
 

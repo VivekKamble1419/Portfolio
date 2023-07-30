@@ -7,9 +7,8 @@ export default function Projectitem({img, title, info}) {
         <div className='hidden group-hover:block absolute top-auto left-auto translate-x-[-50] translate-y-[50%]'>
             <h3 className='text-3xl font-bold text-white tracking-wider text-center'>{title}</h3>
             <p className='pb-4 pt-2 text-white text-center'>{info}</p>
-            <a href="#">
-                <p className='text-center p-3 rounded-xl bg-white text-gray-700 font-bold cursor-pointer '>More Info</p>
-            </a>
+             <p className='text-center p-3 rounded-xl bg-white text-gray-700 font-bold cursor-pointer '>More Info</p>
+            
         </div>
     </div>
   )

@@ -6,21 +6,20 @@ const data=[
     title: 'BCA (Batchlor of Computer Application)',
     deuration: '3 Years',
     details:
-    " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam perferendis nemo sint beatae qui fugit tempore a cupiditate obcaecati laboriosam asperiores, eveniet repellat dolorum unde officia velit deserunt vel aliquid."
-  },
+    "A BCA degree stands for Bachelor of Computer Applications. It is an undergraduate academic degree awarded to students who have completed a three-year full-time course in the field of computer applications."},
   {
     year: 2021,
     title: 'HSC',
     deuration: '1 Year',
     details:
-    " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam perferendis nemo sint beatae qui fugit tempore a cupiditate obcaecati laboriosam asperiores, eveniet repellat dolorum unde officia velit deserunt vel aliquid."
-  },
+    "HSC stands for Higher Secondary Certificate.It is an academic qualification awarded to students who have completed their secondary education, typically after completing two years of study in grades 11 and 12 (or the equivalent) in various educational systems around the world."
+    },
   {
     year: 2019,
     title: 'SSC',
     deuration: '1 Year',
     details:
-    " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam perferendis nemo sint beatae qui fugit tempore a cupiditate obcaecati laboriosam asperiores, eveniet repellat dolorum unde officia velit deserunt vel aliquid."
+       " SSC stands for Secondary School Certificate.It is an academic qualification awarded to students who have completed their secondary education, typically after completing a certain number of years of study, which can vary from country to country."
   },
  
 ]
