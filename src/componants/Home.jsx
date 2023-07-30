@@ -1,6 +1,6 @@
 import React from 'react'
 import {TypeAnimation} from 'react-type-animation'
-import {FaInstagram, FaFacebookF, FaLinkedin, FaGithub} from 'react-icons/fa'
+import {FaInstagram, FaFacebookF, FaLinkedin, FaGithub, FaWhatsapp} from 'react-icons/fa'
 
 export default function Home() {
   return (
@@ -29,10 +29,21 @@ export default function Home() {
             />
             </h2>
         <div className='flex gap-4 pt-6 mt-2'>
-           <FaInstagram className='cursor-pointer' size={25}/>
-           <FaFacebookF className='cursor-pointer' size={25}/>
+          <a href="https://www.instagram.com/iam_ravan22/"> 
+          <FaInstagram className='cursor-pointer' size={25}/>
+          </a>
+          <a href="https://www.facebook.com/vivek.kamble.3158/"> 
+           <FaFacebookF className='cursor-pointer' size={25}/>          
+          </a>
+          <a href="https://www.linkedin.com/in/vivek-kamble-500671229/"> 
            <FaLinkedin className='cursor-pointer' size={25}/>
-           <FaGithub className='cursor-pointer' size={25}/>
+          </a>
+          <a href="https://wa.me/7709629488"> 
+           <FaWhatsapp className='cursor-pointer' size={25}/>       
+          </a> 
+          <a href="https://github.com/VivekKamble1419"> 
+           <FaGithub className='cursor-pointer' size={25}/>       
+          </a> 
         </div>
         </div>
     </div>
